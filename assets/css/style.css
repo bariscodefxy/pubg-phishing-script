@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow: 0;
+  box-sizing: border-box;
+  background-color: #0a0a0a;
+  color: #aaa;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form {
+  
+}
+
+.submit-btn {
+  margin-left: 50%;
+}
+
+.notice-error {
+  background: red;
+  color: white;
+}
+
+.notice-success {
+  background: green;
+  color: white;
+}
+/*
+.form img {
+  margin-left: 35px;
+}*/
